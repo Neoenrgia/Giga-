@@ -75,7 +75,7 @@ const Home = () => {
                   rel="noopener noreferrer"
                   className="bg-gradient-to-r from-green-500 to-green-600 text-white px-8 py-4 rounded-lg font-semibold hover:from-green-600 hover:to-green-700 transition-all transform hover:scale-105 shadow-lg text-center"
                 >
-                  Contratar Agora
+                  Atendimento Online
                 </a>
                 <a
                   href="#planos"
