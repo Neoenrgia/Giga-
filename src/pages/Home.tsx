@@ -7,22 +7,22 @@ const Home = () => {
   const plans = [
     {
       name: 'Giga Start',
-      speed: '200 Mega',
-      price: '89,90',
-      features: ['Velocidade simétrica', 'WiFi incluso', 'Instalação profissional', 'Suporte 24h']
+      speed: '400 Mega',
+      price: '79,99',
+      features: ['Até 400 Mbps de Download', 'Até 200 Mbps de Upload', 'Taxa de instalação Grátis', 'Internet 100% Fibra Óptica']
     },
     {
       name: 'Giga Plus',
-      speed: '500 Mega',
-      price: '129,90',
-      features: ['Velocidade simétrica', 'WiFi 6 incluso', 'Instalação profissional', 'Suporte 24h', 'IP fixo'],
+      speed: '600 Mega',
+      price: '99,99',
+      features: ['Até 600 Mbps de Download', 'Até 300 Mbps de Upload', 'Taxa de instalação Grátis', 'Internet 100% Fibra Óptica'],
       popular: true
     },
     {
       name: 'Giga Ultra',
-      speed: '1 Giga',
-      price: '179,90',
-      features: ['Velocidade simétrica', 'WiFi 6 Pro incluso', 'Instalação profissional', 'Suporte 24h', 'IP fixo', 'Roteador premium']
+      speed: '800 Mega',
+      price: '119,99',
+      features: ['Até 800 Mbps de Download', 'Até 400 Mbps de Upload', 'Taxa de instalação Grátis', 'Internet 100% Fibra Óptica']
     }
   ];
 
