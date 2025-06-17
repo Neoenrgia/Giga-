@@ -2,7 +2,7 @@ import React from 'react';
 import { Zap, Shield, Award, Star, CheckCircle, Wifi, TrendingUp } from 'lucide-react';
 
 const Home = () => {
-  const whatsappUrl = 'https://w.app/7lvybi';
+  const whatsappUrl = 'https://w.app/jni4eg';
 
   const plans = [
     {
