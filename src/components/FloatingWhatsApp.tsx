@@ -2,7 +2,7 @@ import React from 'react';
 import { MessageCircle } from 'lucide-react';
 
 const FloatingWhatsApp = () => {
-  const whatsappUrl = 'https://w.app/7lvybi';
+  const whatsappUrl = 'https://w.app/jni4eg';
 
   return (
     <a
