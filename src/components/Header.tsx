@@ -5,7 +5,7 @@ import { Wifi, Menu, X, Phone, FileText } from 'lucide-react';
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
-  const whatsappUrl = 'https://w.app/m3ykyl';
+  const whatsappUrl = 'https://w.app/7lvybi';
 
   return (
     <header className="bg-white shadow-lg sticky top-0 z-50">
