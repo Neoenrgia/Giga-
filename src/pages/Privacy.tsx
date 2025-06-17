@@ -2,7 +2,7 @@ import React from 'react';
 import { Shield, FileText, Lock, Eye, CheckCircle, Users } from 'lucide-react';
 
 const Privacy = () => {
-  const whatsappUrl = 'https://w.app/7lvybi';
+  const whatsappUrl = 'https://w.app/jni4eg';
 
   return (
     <div className="min-h-screen bg-white">
