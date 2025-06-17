@@ -2,7 +2,7 @@ import React from 'react';
 import { FileText, Scale, Globe, Shield, CheckCircle, MessageCircle } from 'lucide-react';
 
 const Terms = () => {
-  const whatsappUrl = 'https://w.app/m3ykyl';
+  const whatsappUrl = 'https://w.app/7lvybi';
 
   const services = [
     { name: 'Internet Fibra Óptica', description: 'Conexão de alta velocidade via tecnologia FTTH' },
